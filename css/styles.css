@@ -1,0 +1,7 @@
+.banner{
+    display: flex;
+}
+.banner-info{
+    margin-top: 130px;
+    margin-right: 200px;
+}
